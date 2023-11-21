@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="ebdb@awseb-e-sz3ajuwex9-stack-awsebrdsdatabase-m7dvwe7hl9bk.cyuen5m1whcw.ap-northeast-2.rds.amazonaws.com" uuid="ce6c22bf-2005-43b3-a2ba-df9df8537e38">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://awseb-e-sz3ajuwex9-stack-awsebrdsdatabase-m7dvwe7hl9bk.cyuen5m1whcw.ap-northeast-2.rds.amazonaws.com:3306/ebdb</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+  </component>
+</project>
